@@ -1,7 +1,5 @@
 <!-- _coverpage.md -->
 
-![logo](https://www.daodejing.org/logo.gif)
-
 # docsify <small>3.5</small>
 
 > A magical documentation site generator.
