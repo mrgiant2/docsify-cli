@@ -11,5 +11,3 @@
 [GitHub](https://github.com/docsifyjs/docsify/)
 [Get Started](#Welcome)
 
-<!-- background image -->
-
