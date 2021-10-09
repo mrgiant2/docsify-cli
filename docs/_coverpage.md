@@ -15,4 +15,3 @@
 
 <!-- background image -->
 
-![background](_media/bg.png)
